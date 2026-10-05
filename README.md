@@ -5,7 +5,7 @@ A responsive, bilingual (English / Arabic) landing page for **Fire Bit**, a prem
 <!-- Add a screenshot: save it as docs/screenshot.png and uncomment the line below -->
 <!-- ![Fire Bit preview](docs/screenshot.png) -->
 
-**Live demo:** _add your link here_
+**Live demo:** _add your link here_ https://ahmedalahmedy.github.io/firebit_restaurant/
 
 ---
 
